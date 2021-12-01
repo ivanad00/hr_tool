@@ -1,3 +1,5 @@
+# Summer camp project
+
 ## Project structure
 
 This project uses import alias which means every import is relative to the root folder.
